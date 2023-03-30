@@ -1,0 +1,11 @@
+.btn.btn-info {
+    width: 20;
+    padding: 10;
+    color: aliceblue;
+}
+
+.btn.btn-danger {
+    width: 10;
+    padding-left: 50;
+    color: aliceblue;
+}

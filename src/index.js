@@ -3,6 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom';
+
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap/dist/js/bootstrap.bundle"
+
+// import "//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" 
+// import "//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"
+// import "//code.jquery.com/jquery-1.11.1.min.js"
+
+import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
